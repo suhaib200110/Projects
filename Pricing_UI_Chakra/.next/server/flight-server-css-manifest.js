@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"cssImports":{},"cssModules":{"E:\\Panaverse\\Projects\\Pricing_UI_Chakra\\suhaib-pricing-ui\\app\\page":[]}}
